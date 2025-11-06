@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://justframer.com/$1",
+      "permanent": true
+    }
+  ]
+}
